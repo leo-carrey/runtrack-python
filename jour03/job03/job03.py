@@ -3,9 +3,9 @@ def printnumber():
    while i < 100:
       i = i + 1
       if i == 26 or i == 37 or i == 88:
-         print()
+         
          continue
    
       print(i)
 
-print(printnumber())
+printnumber()
