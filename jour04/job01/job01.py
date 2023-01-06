@@ -1,8 +1,8 @@
-def fruits_reversed():
+def fruits_return():
     fruits=["pomme", "cerise", "orange"]
     return fruits
 
-print(fruits_reversed())
+print(fruits_return())
 
 #def fruits_reversed():
 #    fruits=["pomme", "cerise", "orange"]
