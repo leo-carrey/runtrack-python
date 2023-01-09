@@ -7,4 +7,5 @@ def draw_rectangle(w):
         n = n + 1
     print("+", "-" * (w + 1), "+")
 
+
 draw_rectangle(10)

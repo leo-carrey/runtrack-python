@@ -7,6 +7,7 @@ def draw_rectangle(w,h):
 draw_rectangle(10,3)
 
 
+
 # w = int(input('Please Enter the height of the Rectangle: '))
 # h = int(input('Please Enter the Width of the Rectangle: '))
 # print("|", "-" * (w - 2), "|")
