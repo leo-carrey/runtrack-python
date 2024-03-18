@@ -16,3 +16,4 @@ elif input_a < input_b + input_c and input_b < input_a + input_c and input_c < i
 
 else:
     print("its not a triangle")
+    

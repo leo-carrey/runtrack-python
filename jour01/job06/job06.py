@@ -10,3 +10,4 @@ montant_initial = montant_initial*0.90
 taux_de_rendement = taux_de_rendement*0.99
 print((taux_de_rendement/montant_initial)*100)
 print(taux_de_rendement)
+
